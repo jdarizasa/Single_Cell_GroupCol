@@ -1,2 +1,2 @@
-# Single_Cell_GroupCol
-Repository of the single cell group COL. 
+# Single_Cell_DimensionReduction
+Repository of the final work of my bachelor in statistics.
